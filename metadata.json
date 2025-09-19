@@ -1,0 +1,5 @@
+{
+  "name": "Zenith - Personal Dashboard",
+  "description": "A personalized dashboard to track your daily routine, monitor your life balance, and view weekly progress reports. All your data is stored locally in your browser, no cloud account needed.",
+  "requestFramePermissions": []
+}
